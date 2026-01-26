@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Micro Web logo">
+  <circle cx="256" cy="256" r="246" fill="#eef1f4" stroke="#d3d6da" stroke-width="12" />
+  <circle cx="256" cy="256" r="210" fill="none" stroke="#202020" stroke-width="8" />
+  <g fill="#101010">
+    <path d="M214 180 l48 60 60-92 46 46-66 118-60-58-52 60-32-36z" />
+  </g>
+  <text x="256" y="330" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-weight="700" font-size="64" fill="#27d7d4" letter-spacing="6">MICRO WEB</text>
+  <text x="256" y="390" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-weight="600" font-size="36" fill="#27d7d4">MW</text>
+</svg>
